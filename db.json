@@ -1,0 +1,91 @@
+{
+    "recipes": [
+        {
+            "name": "Brownies de Chocolate",
+            "description": "Rica receta de Dari de brownies de chocolate.",
+            "difficulty": "superHard", 
+            "slug": "brownies",
+            "imgSrc": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F21%2F2021%2F02%2F05%2Fbrownies-de-nutella-con-chocolate-2000.jpg&q=60",
+            "rating": 4.5,
+            "time": 120,
+            "ingredients": [
+                {
+                    "name": "Chocolate",
+                    "amount": 5,
+                    "type": "kg"
+                },
+                {
+                    "name": "Leche",
+                    "amount": 1,
+                    "type": "taza"
+                },
+                {
+                    "name": "Mantequilla",
+                    "amount": 2,
+                    "type": "unidad"
+                }
+            ],
+            "steps": [
+                {
+                    "description": "Mezcla el chocolate"
+                },
+                {
+                    "description": "Echa leche"
+                },
+                {
+                    "description": "Echa mantequilla"
+                },
+                {
+                    "description": "Cocina durante media hora"
+                }
+            ]
+        },
+        {
+            "slug": "agua-de-horchata",
+            "name": "Agua de Horchata",
+            "description": "Agua de horchata instantanea.",
+            "difficulty": "superEasy",
+            "imgSrc": "https://images.aws.nestle.recipes/resized/428cd108ade4d1ea9f9d08d392bf0571_aguaa_1200_600.png",
+            "rating": 3,
+            "time": 30,
+            "ingredients": [
+                {
+                    "name": "Arroz",
+                    "amount": 1,
+                    "type": "taza"
+                },
+                {
+                    "name": "Leche Evaporada",
+                    "amount": 1,
+                    "type": "unidad"
+                },
+                {
+                    "name": "Leche Condensada",
+                    "amount": 1,
+                    "type": "unidad"
+                },
+                {
+                    "name": "Canela Molida",
+                    "amount": 1,
+                    "type": "cucharada"
+                },
+                {
+                    "name": "Agua",
+                    "amount": 4,
+                    "type": "taza"
+                }
+            ],
+            "steps": [
+                {
+                    "description": "Licua el arroz con la canela molida"
+                },
+                {
+                    "description": "Licua la mezcla con la leche evaporada y condensada"
+                },
+                {
+                    "description": "Echa el agua"
+                }
+            ]
+        }
+    ]
+}
